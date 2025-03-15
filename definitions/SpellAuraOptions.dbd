@@ -116,7 +116,7 @@ BUILD 7.3.5.25928, 7.3.5.25937, 7.3.5.25944, 7.3.5.25946, 7.3.5.25950, 7.3.5.259
 BUILD 1.13.0.28211
 $noninline,id$ID<32>
 ProcCharges<32>
-ProcTypeMask<32>[2]
+ProcTypeMask<32>
 ProcCategoryRecovery<32>
 CumulativeAura<u16>
 SpellProcsPerMinuteID<u16>
